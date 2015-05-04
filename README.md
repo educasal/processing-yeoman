@@ -4,11 +4,11 @@ processing-yeoman
 About
 --------------
 
+Basically a playgroud
+
 URL: [https://github.com/educasal/processing-yeoman](https://github.com/educasal/processing-yeoman)
 
 Author: [educasal](https://github.com/educasal)
-
-Version: 0.1
 
 
 

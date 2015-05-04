@@ -1,9 +1,8 @@
 {
   "name": "processing-yeoman",
-	"version": "0.1",
+	"version": "0.1.0",
 	"main": "dist/processing-yeoman.min.js",
   "dependencies": {
-		"processingjs": "*"
+		"processing-js": "*"
 	}
 }
-

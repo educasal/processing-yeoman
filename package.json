@@ -1,6 +1,6 @@
 {
 	"name": "processing-yeoman",
-	"version": "0.1",
+	"version": "0.1.0",
 	"main": "dist/processing-yeoman.min.js",
 	"dependencies": {
 		
@@ -11,9 +11,13 @@
 	"devDependencies": {
 		"grunt": "~0.4.2",
 		"grunt-contrib-jshint": "~0.8.0",
-		"grunt-contrib-uglify": "~0.2.7",
-		"grunt-contrib-copy": "~0.5.0",
-		"grunt-jsdoc": "~0.5.1"
+    "grunt-contrib-uglify": "~0.3.0",
+    "grunt-contrib-copy": "~0.5.0",
+		"grunt-jsdoc": "~0.5.1",
+		"grunt-jscs-checker": "~0.3.2",
+		"grunt-version": "~0.3.0",
+		"load-grunt-tasks": "~0.2.1",
+		"time-grunt": "~0.2.8"
 	},
 	"ignore": [
 		"node_modules",
